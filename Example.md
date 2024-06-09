@@ -29,4 +29,4 @@ This is the second paragraph
     }  
 
 This is the syntax to perform image in  markdown
-![mplnp](/assets/images/tux.png)
+![mplnp](mplnp (Host families 1~7).png)
