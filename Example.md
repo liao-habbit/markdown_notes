@@ -26,5 +26,7 @@ This is the second paragraph
     This is a code block  
     def function():{  
      content ...  
-    }
+    }  
 
+This is the syntax to perform image in  markdown
+![mplnp](/assets/images/tux.png)
