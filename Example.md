@@ -28,5 +28,5 @@ This is the second paragraph
      content ...  
     }  
 
-This is the syntax to perform image in  markdown
-![mplnp](mplnp (Host families 1~7).png)
+This is the syntax to perform image in  markdown  
+![mplnp (Host families 1~7).png](https://github.com/liao-habbit/markdown_notes/blob/3fbc0cbfe0d974c7d9c74562cecb17d46a279064/mplnp%20(Host%20families%201~7).png)  
